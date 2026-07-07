@@ -10,8 +10,8 @@ I am a Computer Science student passionate about building real-world software an
 
 - 📊 CodeAlpha Data Analytics Internship
 - 🤖 AI Coaching Mobile Application (FYP)
-- 📱 Flutter Development
 - 🧠 Machine Learning & Deep Learning
+- 📈 Power BI Dashboards
 
 ---
 
@@ -20,7 +20,6 @@ I am a Computer Science student passionate about building real-world software an
 ### Programming Languages
 - Python
 - PHP
-- Dart
 - SQL
 - C++
 
@@ -34,6 +33,15 @@ I am a Computer Science student passionate about building real-world software an
 ### Databases
 - MySQL
 - SQLite
+- Supabase
+
+### 📊 Data Analytics
+- Microsoft Excel
+- Power BI
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
 
 ### Tools & Technologies
 - Git
@@ -82,7 +90,7 @@ Flutter Based Attendance Application
 - Become a Data Analyst
 - Learn Machine Learning
 - Build Professional GitHub Portfolio
-- Get Admission for MS in the UK
+
 
 ---
 
